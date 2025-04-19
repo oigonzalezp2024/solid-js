@@ -1,0 +1,31 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "Entranamiento de refactorización - Principios SOLID en Javascript",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "start": "node server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oigonzalezp2024/solid-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oigonzalezp2024/solid-js/issues"
+  },
+  "homepage": "https://github.com/oigonzalezp2024/solid-js#readme",
+  "dependencies": {
+    "compression": "^1.8.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.2"
+  }
+}
