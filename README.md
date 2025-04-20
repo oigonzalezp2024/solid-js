@@ -6,7 +6,7 @@ Entranamiento de refactorización - Principios SOLID en Javascript
 | Versión     | Estado     | Fecha       | Descripción breve                                 |
 |-------------|------------|-------------|---------------------------------------------------|
 | 1.0.0       | ✅ Estable  | 2025-04-19  | Lanzamiento inicial (Material original para practicar)|
-| 2.0.0       | ✅ Estable  | 2025-04-19  | Primera refactorización aplicando principios SOLID*|
+| 2.0.0       | ✅ Estable  | 2025-04-20  | Primera refactorización aplicando principios SOLID*|
 
 * Hasta donde Javascript con sus limitacines lo permite.
 
